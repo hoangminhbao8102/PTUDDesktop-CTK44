@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PTUDDesktop-CTK44\\Lab02\\Lab2_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43A85718-9131-4F35-929C-F7850B96056F}|Lab2_Demo\\Lab2_Demo.csproj|e:\\ptuddesktop-ctk44\\lab02\\lab2_demo\\lab2_demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43A85718-9131-4F35-929C-F7850B96056F}|Lab2_Demo\\Lab2_Demo.csproj|solutionrelative:lab2_demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A85718-9131-4F35-929C-F7850B96056F}|Lab2_Demo\\Lab2_Demo.csproj|e:\\ptuddesktop-ctk44\\lab02\\lab2_demo\\lab2_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A85718-9131-4F35-929C-F7850B96056F}|Lab2_Demo\\Lab2_Demo.csproj|solutionrelative:lab2_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A85718-9131-4F35-929C-F7850B96056F}|Lab2_Demo\\Lab2_Demo.csproj|e:\\ptuddesktop-ctk44\\lab02\\lab2_demo\\lab2_demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A85718-9131-4F35-929C-F7850B96056F}|Lab2_Demo\\Lab2_Demo.csproj|solutionrelative:lab2_demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\Lab02\\Lab2_Demo\\Lab2_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2_Demo\\Program.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\Lab02\\Lab2_Demo\\Lab2_Demo\\Program.cs",
+              "RelativeToolTip": "Lab2_Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:52:44.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\Lab02\\Lab2_Demo\\Lab2_Demo\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab2_Demo\\Form1.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\Lab02\\Lab2_Demo\\Lab2_Demo\\Form1.cs",
+              "RelativeToolTip": "Lab2_Demo\\Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAASwBwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T07:54:58.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\Lab02\\Lab2_Demo\\Lab2_Demo\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab2_Demo\\Form1.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\Lab02\\Lab2_Demo\\Lab2_Demo\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab2_Demo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T07:53:03.954Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
