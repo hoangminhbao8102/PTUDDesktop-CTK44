@@ -1,0 +1,5 @@
+SV.00001*Nguyen Van A*2001-01-15*Hanoi*CTK45*hinh1.png*1*Mang truyen thong,Cong nghe phan mem
+SV.00002*Tran Thi B*2002-02-20*Danang*CTK46*hinh2.png*0*Khoa hoc may tinh,Tin hoc ung dung
+SV.00003*Le Van C*2000-03-12*Saigon*CTK45*hinh3.png*1*Tri tue nhan tao,He thong thong tin
+SV.00004*Pham Thi D*1999-04-18*Hue*CTK43*hinh4.png*0*Cong nghe phan mem,He thong thong tin
+SV.00005*Do Van E*2001-05-25*Haiphong*CTK44*hinh5.png*1*Mang truyen thong,Tin hoc ung dung
