@@ -68,10 +68,9 @@ namespace Lab6_Basic_Command
             SqlCommand sqlCommand = sqlConnection.CreateCommand();
 
             // Thiết lập lệnh truy vấn cho đối tượng Command
-            sqlCommand.CommandText = "INSERT INTO Category(ID, Name, Type) VALUES (@ID, @Name, @Type)";
+            sqlCommand.CommandText = "INSERT INTO Category (Name, [Type]) VALUES (@Name, @Type)";
 
-            // Thêm các tham số an toàn
-            sqlCommand.Parameters.AddWithValue("@ID", txtID.Text);
+            // Thêm tham số
             sqlCommand.Parameters.AddWithValue("@Name", txtName.Text);
             sqlCommand.Parameters.AddWithValue("@Type", txtType.Text);
 

@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "E:\\PTUDDesktop-CTK44\\B\u00E0i t\u1EADp Lab\\Lab06\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12D03749-5ACF-4477-8EB1-13095B0D7C18}|Lab6_Basic_Command\\Lab6_Basic_Command.csproj|e:\\ptuddesktop-ctk44\\b\u00E0i t\u1EADp lab\\lab06\\lab6_basic_command\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12D03749-5ACF-4477-8EB1-13095B0D7C18}|Lab6_Basic_Command\\Lab6_Basic_Command.csproj|solutionrelative:lab6_basic_command\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12D03749-5ACF-4477-8EB1-13095B0D7C18}|Lab6_Basic_Command\\Lab6_Basic_Command.csproj|e:\\ptuddesktop-ctk44\\b\u00E0i t\u1EADp lab\\lab06\\lab6_basic_command\\billsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12D03749-5ACF-4477-8EB1-13095B0D7C18}|Lab6_Basic_Command\\Lab6_Basic_Command.csproj|solutionrelative:lab6_basic_command\\billsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12D03749-5ACF-4477-8EB1-13095B0D7C18}|Lab6_Basic_Command\\Lab6_Basic_Command.csproj|e:\\ptuddesktop-ctk44\\b\u00E0i t\u1EADp lab\\lab06\\lab6_basic_command\\billsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{12D03749-5ACF-4477-8EB1-13095B0D7C18}|Lab6_Basic_Command\\Lab6_Basic_Command.csproj|solutionrelative:lab6_basic_command\\billsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{12D03749-5ACF-4477-8EB1-13095B0D7C18}|Lab6_Basic_Command\\Lab6_Basic_Command.csproj|e:\\ptuddesktop-ctk44\\b\u00E0i t\u1EADp lab\\lab06\\lab6_basic_command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12D03749-5ACF-4477-8EB1-13095B0D7C18}|Lab6_Basic_Command\\Lab6_Basic_Command.csproj|solutionrelative:lab6_basic_command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12D03749-5ACF-4477-8EB1-13095B0D7C18}|Lab6_Basic_Command\\Lab6_Basic_Command.csproj|e:\\ptuddesktop-ctk44\\b\u00E0i t\u1EADp lab\\lab06\\lab6_basic_command\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{12D03749-5ACF-4477-8EB1-13095B0D7C18}|Lab6_Basic_Command\\Lab6_Basic_Command.csproj|solutionrelative:lab6_basic_command\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{12D03749-5ACF-4477-8EB1-13095B0D7C18}|Lab6_Basic_Command\\Lab6_Basic_Command.csproj|e:\\ptuddesktop-ctk44\\b\u00E0i t\u1EADp lab\\lab06\\lab6_basic_command\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D03749-5ACF-4477-8EB1-13095B0D7C18}|Lab6_Basic_Command\\Lab6_Basic_Command.csproj|solutionrelative:lab6_basic_command\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D03749-5ACF-4477-8EB1-13095B0D7C18}|Lab6_Basic_Command\\Lab6_Basic_Command.csproj|e:\\ptuddesktop-ctk44\\b\u00E0i t\u1EADp lab\\lab06\\lab6_basic_command\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12D03749-5ACF-4477-8EB1-13095B0D7C18}|Lab6_Basic_Command\\Lab6_Basic_Command.csproj|solutionrelative:lab6_basic_command\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,56 +27,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BillsForm.cs",
-              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\B\u00E0i t\u1EADp Lab\\Lab06\\Lab6_Basic_Command\\BillsForm.cs",
-              "RelativeDocumentMoniker": "Lab6_Basic_Command\\BillsForm.cs",
-              "ToolTip": "E:\\PTUDDesktop-CTK44\\B\u00E0i t\u1EADp Lab\\Lab06\\Lab6_Basic_Command\\BillsForm.cs",
-              "RelativeToolTip": "Lab6_Basic_Command\\BillsForm.cs",
-              "ViewState": "AgIAAJ0AAAAAAAAAAAAIwMcAAAAJAAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\B\u00E0i t\u1EADp Lab\\Lab06\\Lab6_Basic_Command\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab6_Basic_Command\\Form1.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\B\u00E0i t\u1EADp Lab\\Lab06\\Lab6_Basic_Command\\Form1.cs",
+              "RelativeToolTip": "Lab6_Basic_Command\\Form1.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAvwEoAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T00:57:42.531Z",
+              "WhenOpened": "2024-12-18T02:09:08.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BillsForm.cs [Design]",
-              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\B\u00E0i t\u1EADp Lab\\Lab06\\Lab6_Basic_Command\\BillsForm.cs",
-              "RelativeDocumentMoniker": "Lab6_Basic_Command\\BillsForm.cs",
-              "ToolTip": "E:\\PTUDDesktop-CTK44\\B\u00E0i t\u1EADp Lab\\Lab06\\Lab6_Basic_Command\\BillsForm.cs [Design]",
-              "RelativeToolTip": "Lab6_Basic_Command\\BillsForm.cs [Design]",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\B\u00E0i t\u1EADp Lab\\Lab06\\Lab6_Basic_Command\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab6_Basic_Command\\Form1.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\B\u00E0i t\u1EADp Lab\\Lab06\\Lab6_Basic_Command\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab6_Basic_Command\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T00:57:39.863Z",
+              "WhenOpened": "2024-12-18T02:08:56.459Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\B\u00E0i t\u1EADp Lab\\Lab06\\Lab6_Basic_Command\\MainForm.cs",
-              "RelativeDocumentMoniker": "Lab6_Basic_Command\\MainForm.cs",
-              "ToolTip": "E:\\PTUDDesktop-CTK44\\B\u00E0i t\u1EADp Lab\\Lab06\\Lab6_Basic_Command\\MainForm.cs",
-              "RelativeToolTip": "Lab6_Basic_Command\\MainForm.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAUwEwAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T00:56:34.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\B\u00E0i t\u1EADp Lab\\Lab06\\Lab6_Basic_Command\\MainForm.cs",
-              "RelativeDocumentMoniker": "Lab6_Basic_Command\\MainForm.cs",
-              "ToolTip": "E:\\PTUDDesktop-CTK44\\B\u00E0i t\u1EADp Lab\\Lab06\\Lab6_Basic_Command\\MainForm.cs [Design]",
-              "RelativeToolTip": "Lab6_Basic_Command\\MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T00:53:42.018Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\B\u00E0i t\u1EADp Lab\\Lab06\\Lab6_Basic_Command\\Program.cs",
               "RelativeDocumentMoniker": "Lab6_Basic_Command\\Program.cs",
