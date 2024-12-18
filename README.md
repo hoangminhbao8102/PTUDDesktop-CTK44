@@ -12,8 +12,8 @@ Trường: Đại học Đà Lạt<br>
 (??? hàng tuần)<br>
 <br>
 Hoc kì II - Năm 2 (2021 - 2022)<br>
-<strong>Giáo viên giảng dạy:</strong> Cô Phan Thị Thanh Nga<br>
-<strong>Giáo viên hướng dẫn thực hành:</strong> Thầy Thái Duy Quý<br>
+<strong>Giáo viên giảng dạy:</strong> Cô ThS. Phan Thị Thanh Nga<br>
+<strong>Giáo viên hướng dẫn thực hành:</strong> Thầy ThS. Thái Duy Quý<br>
 <br>
 Link Github: <a href="https://github.com/hoangminhbao8102/PTUDDesktop-CTK44">hoangminhbao8102/PTUDDesktop-CTK44</a><br>
 <h1 style="color:red;">CHƯA HOÀN THÀNH</h1>
