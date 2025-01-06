@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AccountDetailsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AccountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AccountManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddAccountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AppMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BillDetailsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BillsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChangePasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FoodForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SalesLogForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TableForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateAccountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateCategoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateFoodForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
