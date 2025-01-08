@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PTUDDesktop-CTK44\\BaiTapLab\\Lab10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1C8F30-1439-4CAD-9029-9032F8C56BD6}|RestaurantDesktop\\RestaurantDesktop.csproj|e:\\ptuddesktop-ctk44\\baitaplab\\lab10\\restaurantdesktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1C8F30-1439-4CAD-9029-9032F8C56BD6}|RestaurantDesktop\\RestaurantDesktop.csproj|solutionrelative:restaurantdesktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1C8F30-1439-4CAD-9029-9032F8C56BD6}|RestaurantDesktop\\RestaurantDesktop.csproj|e:\\ptuddesktop-ctk44\\baitaplab\\lab10\\restaurantdesktop\\accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1C8F30-1439-4CAD-9029-9032F8C56BD6}|RestaurantDesktop\\RestaurantDesktop.csproj|solutionrelative:restaurantdesktop\\accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1C8F30-1439-4CAD-9029-9032F8C56BD6}|RestaurantDesktop\\RestaurantDesktop.csproj|e:\\ptuddesktop-ctk44\\baitaplab\\lab10\\restaurantdesktop\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1C8F30-1439-4CAD-9029-9032F8C56BD6}|RestaurantDesktop\\RestaurantDesktop.csproj|solutionrelative:restaurantdesktop\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F0E777-38F2-453A-91E7-677626BF7E62}|Restaurant.BLL\\Restaurant.BLL.csproj|e:\\ptuddesktop-ctk44\\baitaplab\\lab10\\restaurant.bll\\security\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F0E777-38F2-453A-91E7-677626BF7E62}|Restaurant.BLL\\Restaurant.BLL.csproj|solutionrelative:restaurant.bll\\security\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F0E777-38F2-453A-91E7-677626BF7E62}|Restaurant.BLL\\Restaurant.BLL.csproj|e:\\ptuddesktop-ctk44\\baitaplab\\lab10\\restaurant.bll\\security\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F0E777-38F2-453A-91E7-677626BF7E62}|Restaurant.BLL\\Restaurant.BLL.csproj|solutionrelative:restaurant.bll\\security\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1C8F30-1439-4CAD-9029-9032F8C56BD6}|RestaurantDesktop\\RestaurantDesktop.csproj|E:\\PTUDDesktop-CTK44\\BaiTapLab\\Lab10\\restaurantdesktop\\accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A1C8F30-1439-4CAD-9029-9032F8C56BD6}|RestaurantDesktop\\RestaurantDesktop.csproj|solutionrelative:restaurantdesktop\\accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\BaiTapLab\\Lab10\\RestaurantDesktop\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantDesktop\\Program.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\BaiTapLab\\Lab10\\RestaurantDesktop\\Program.cs",
+              "RelativeToolTip": "RestaurantDesktop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T10:39:17.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\BaiTapLab\\Lab10\\Restaurant.BLL\\Security\\UserService.cs",
+              "RelativeDocumentMoniker": "Restaurant.BLL\\Security\\UserService.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\BaiTapLab\\Lab10\\Restaurant.BLL\\Security\\UserService.cs",
+              "RelativeToolTip": "Restaurant.BLL\\Security\\UserService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T10:35:50.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\BaiTapLab\\Lab10\\Restaurant.BLL\\Security\\IUserService.cs",
+              "RelativeDocumentMoniker": "Restaurant.BLL\\Security\\IUserService.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\BaiTapLab\\Lab10\\Restaurant.BLL\\Security\\IUserService.cs",
+              "RelativeToolTip": "Restaurant.BLL\\Security\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T10:35:08.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\BaiTapLab\\Lab10\\RestaurantDesktop\\AdminForm.cs",
+              "RelativeDocumentMoniker": "RestaurantDesktop\\AdminForm.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\BaiTapLab\\Lab10\\RestaurantDesktop\\AdminForm.cs",
+              "RelativeToolTip": "RestaurantDesktop\\AdminForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T08:56:50.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountForm.cs",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\BaiTapLab\\Lab10\\RestaurantDesktop\\AccountForm.cs",
+              "RelativeDocumentMoniker": "RestaurantDesktop\\AccountForm.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\BaiTapLab\\Lab10\\RestaurantDesktop\\AccountForm.cs",
+              "RelativeToolTip": "RestaurantDesktop\\AccountForm.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwBcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T09:51:58.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountForm.cs [Design]",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\BaiTapLab\\Lab10\\RestaurantDesktop\\AccountForm.cs",
+              "RelativeDocumentMoniker": "RestaurantDesktop\\AccountForm.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\BaiTapLab\\Lab10\\RestaurantDesktop\\AccountForm.cs [Design]",
+              "RelativeToolTip": "RestaurantDesktop\\AccountForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T09:48:21.631Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
