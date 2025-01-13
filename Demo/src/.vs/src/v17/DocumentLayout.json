@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PTUDDesktop-CTK44\\Demo\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E267CED4-B82A-45FB-84A1-922CD63E2EDB}|Demo\\Demo.csproj|e:\\ptuddesktop-ctk44\\demo\\src\\demo\\formmonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E267CED4-B82A-45FB-84A1-922CD63E2EDB}|Demo\\Demo.csproj|solutionrelative:demo\\formmonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E267CED4-B82A-45FB-84A1-922CD63E2EDB}|Demo\\Demo.csproj|e:\\ptuddesktop-ctk44\\demo\\src\\demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E267CED4-B82A-45FB-84A1-922CD63E2EDB}|Demo\\Demo.csproj|solutionrelative:demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E267CED4-B82A-45FB-84A1-922CD63E2EDB}|Demo\\Demo.csproj|e:\\ptuddesktop-ctk44\\demo\\src\\demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E267CED4-B82A-45FB-84A1-922CD63E2EDB}|Demo\\Demo.csproj|solutionrelative:demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E267CED4-B82A-45FB-84A1-922CD63E2EDB}|Demo\\Demo.csproj|e:\\ptuddesktop-ctk44\\demo\\src\\demo\\formmonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E267CED4-B82A-45FB-84A1-922CD63E2EDB}|Demo\\Demo.csproj|solutionrelative:demo\\formmonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\Demo\\src\\Demo\\Form1.cs",
+              "RelativeDocumentMoniker": "Demo\\Form1.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\Demo\\src\\Demo\\Form1.cs",
+              "RelativeToolTip": "Demo\\Form1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAewEMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T02:22:06.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMonAn.cs",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\Demo\\src\\Demo\\FormMonAn.cs",
+              "RelativeDocumentMoniker": "Demo\\FormMonAn.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\Demo\\src\\Demo\\FormMonAn.cs",
+              "RelativeToolTip": "Demo\\FormMonAn.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T02:17:06.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMonAn.cs [Design]",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\Demo\\src\\Demo\\FormMonAn.cs",
+              "RelativeDocumentMoniker": "Demo\\FormMonAn.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\Demo\\src\\Demo\\FormMonAn.cs [Design]",
+              "RelativeToolTip": "Demo\\FormMonAn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T02:09:28.582Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\Demo\\src\\Demo\\Form1.cs",
+              "RelativeDocumentMoniker": "Demo\\Form1.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\Demo\\src\\Demo\\Form1.cs [Design]",
+              "RelativeToolTip": "Demo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T02:08:11.85Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
