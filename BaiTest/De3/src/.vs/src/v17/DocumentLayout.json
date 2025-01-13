@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PTUDDesktop-CTK44\\BaiTest\\De3\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23D58B00-58A0-492E-AEA3-135875016B53}|De3\\De3.csproj|e:\\ptuddesktop-ctk44\\baitest\\de3\\src\\de3\\formthemloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D58B00-58A0-492E-AEA3-135875016B53}|De3\\De3.csproj|solutionrelative:de3\\formthemloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D58B00-58A0-492E-AEA3-135875016B53}|De3\\De3.csproj|e:\\ptuddesktop-ctk44\\baitest\\de3\\src\\de3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D58B00-58A0-492E-AEA3-135875016B53}|De3\\De3.csproj|solutionrelative:de3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D58B00-58A0-492E-AEA3-135875016B53}|De3\\De3.csproj|e:\\ptuddesktop-ctk44\\baitest\\de3\\src\\de3\\formthemloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23D58B00-58A0-492E-AEA3-135875016B53}|De3\\De3.csproj|solutionrelative:de3\\formthemloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D58B00-58A0-492E-AEA3-135875016B53}|De3\\De3.csproj|E:\\PTUDDesktop-CTK44\\BaiTest\\De3\\src\\de3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23D58B00-58A0-492E-AEA3-135875016B53}|De3\\De3.csproj|solutionrelative:de3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D58B00-58A0-492E-AEA3-135875016B53}|De3\\De3.csproj|e:\\ptuddesktop-ctk44\\baitest\\de3\\src\\de3\\loaimathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D58B00-58A0-492E-AEA3-135875016B53}|De3\\De3.csproj|solutionrelative:de3\\loaimathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D58B00-58A0-492E-AEA3-135875016B53}|De3\\De3.csproj|e:\\ptuddesktop-ctk44\\baitest\\de3\\src\\de3\\mathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D58B00-58A0-492E-AEA3-135875016B53}|De3\\De3.csproj|solutionrelative:de3\\mathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormThemLoai.cs",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\BaiTest\\De3\\src\\De3\\FormThemLoai.cs",
+              "RelativeDocumentMoniker": "De3\\FormThemLoai.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\BaiTest\\De3\\src\\De3\\FormThemLoai.cs",
+              "RelativeToolTip": "De3\\FormThemLoai.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAApwDgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T01:21:41.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormThemLoai.cs [Design]",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\BaiTest\\De3\\src\\De3\\FormThemLoai.cs",
+              "RelativeDocumentMoniker": "De3\\FormThemLoai.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\BaiTest\\De3\\src\\De3\\FormThemLoai.cs [Design]",
+              "RelativeToolTip": "De3\\FormThemLoai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T01:18:59.42Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\BaiTest\\De3\\src\\De3\\Form1.cs",
+              "RelativeDocumentMoniker": "De3\\Form1.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\BaiTest\\De3\\src\\De3\\Form1.cs",
+              "RelativeToolTip": "De3\\Form1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T04:10:47.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MatHang.cs",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\BaiTest\\De3\\src\\De3\\MatHang.cs",
+              "RelativeDocumentMoniker": "De3\\MatHang.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\BaiTest\\De3\\src\\De3\\MatHang.cs",
+              "RelativeToolTip": "De3\\MatHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T04:09:20.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoaiMatHang.cs",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\BaiTest\\De3\\src\\De3\\LoaiMatHang.cs",
+              "RelativeDocumentMoniker": "De3\\LoaiMatHang.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\BaiTest\\De3\\src\\De3\\LoaiMatHang.cs",
+              "RelativeToolTip": "De3\\LoaiMatHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T04:09:09.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\BaiTest\\De3\\src\\De3\\Form1.cs",
+              "RelativeDocumentMoniker": "De3\\Form1.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\BaiTest\\De3\\src\\De3\\Form1.cs [Design]",
+              "RelativeToolTip": "De3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T03:54:39.464Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
