@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PTUDDesktop-CTK44\\BaiTapNhom\\Source\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D146E8A-08D8-4080-A2D5-1C92E8D4D439}|ToyShop.DAL\\ToyShop.DAL.csproj|e:\\ptuddesktop-ctk44\\baitapnhom\\source\\toyshop.dal\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D146E8A-08D8-4080-A2D5-1C92E8D4D439}|ToyShop.DAL\\ToyShop.DAL.csproj|solutionrelative:toyshop.dal\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D146E8A-08D8-4080-A2D5-1C92E8D4D439}|ToyShop.DAL\\ToyShop.DAL.csproj|e:\\ptuddesktop-ctk44\\baitapnhom\\source\\toyshop.dal\\context\\toyshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D146E8A-08D8-4080-A2D5-1C92E8D4D439}|ToyShop.DAL\\ToyShop.DAL.csproj|solutionrelative:toyshop.dal\\context\\toyshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A249314-F0DE-4D6D-8A3A-3ED43A375B67}|ToyShop\\ToyShop.csproj|e:\\ptuddesktop-ctk44\\baitapnhom\\source\\toyshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A249314-F0DE-4D6D-8A3A-3ED43A375B67}|ToyShop\\ToyShop.csproj|solutionrelative:toyshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D146E8A-08D8-4080-A2D5-1C92E8D4D439}|ToyShop.DAL\\ToyShop.DAL.csproj|e:\\ptuddesktop-ctk44\\baitapnhom\\source\\toyshop.dal\\entities\\toycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D146E8A-08D8-4080-A2D5-1C92E8D4D439}|ToyShop.DAL\\ToyShop.DAL.csproj|solutionrelative:toyshop.dal\\entities\\toycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D146E8A-08D8-4080-A2D5-1C92E8D4D439}|ToyShop.DAL\\ToyShop.DAL.csproj|e:\\ptuddesktop-ctk44\\baitapnhom\\source\\toyshop.dal\\entities\\toy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D146E8A-08D8-4080-A2D5-1C92E8D4D439}|ToyShop.DAL\\ToyShop.DAL.csproj|solutionrelative:toyshop.dal\\entities\\toy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D146E8A-08D8-4080-A2D5-1C92E8D4D439}|ToyShop.DAL\\ToyShop.DAL.csproj|e:\\ptuddesktop-ctk44\\baitapnhom\\source\\toyshop.dal\\entities\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D146E8A-08D8-4080-A2D5-1C92E8D4D439}|ToyShop.DAL\\ToyShop.DAL.csproj|solutionrelative:toyshop.dal\\entities\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D146E8A-08D8-4080-A2D5-1C92E8D4D439}|ToyShop.DAL\\ToyShop.DAL.csproj|e:\\ptuddesktop-ctk44\\baitapnhom\\source\\toyshop.dal\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D146E8A-08D8-4080-A2D5-1C92E8D4D439}|ToyShop.DAL\\ToyShop.DAL.csproj|solutionrelative:toyshop.dal\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToyCategory.cs",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\BaiTapNhom\\Source\\ToyShop.DAL\\Entities\\ToyCategory.cs",
+              "RelativeDocumentMoniker": "ToyShop.DAL\\Entities\\ToyCategory.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\BaiTapNhom\\Source\\ToyShop.DAL\\Entities\\ToyCategory.cs",
+              "RelativeToolTip": "ToyShop.DAL\\Entities\\ToyCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:55:31.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Toy.cs",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\BaiTapNhom\\Source\\ToyShop.DAL\\Entities\\Toy.cs",
+              "RelativeDocumentMoniker": "ToyShop.DAL\\Entities\\Toy.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\BaiTapNhom\\Source\\ToyShop.DAL\\Entities\\Toy.cs",
+              "RelativeToolTip": "ToyShop.DAL\\Entities\\Toy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:55:20.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceDetail.cs",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\BaiTapNhom\\Source\\ToyShop.DAL\\Entities\\InvoiceDetail.cs",
+              "RelativeDocumentMoniker": "ToyShop.DAL\\Entities\\InvoiceDetail.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\BaiTapNhom\\Source\\ToyShop.DAL\\Entities\\InvoiceDetail.cs",
+              "RelativeToolTip": "ToyShop.DAL\\Entities\\InvoiceDetail.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:55:07.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\BaiTapNhom\\Source\\ToyShop.DAL\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "ToyShop.DAL\\Entities\\Invoice.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\BaiTapNhom\\Source\\ToyShop.DAL\\Entities\\Invoice.cs",
+              "RelativeToolTip": "ToyShop.DAL\\Entities\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:54:58.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToyShopContext.cs",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\BaiTapNhom\\Source\\ToyShop.DAL\\Context\\ToyShopContext.cs",
+              "RelativeDocumentMoniker": "ToyShop.DAL\\Context\\ToyShopContext.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\BaiTapNhom\\Source\\ToyShop.DAL\\Context\\ToyShopContext.cs",
+              "RelativeToolTip": "ToyShop.DAL\\Context\\ToyShopContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowEkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:47:18.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\BaiTapNhom\\Source\\ToyShop.DAL\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "ToyShop.DAL\\Entities\\Customer.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\BaiTapNhom\\Source\\ToyShop.DAL\\Entities\\Customer.cs",
+              "RelativeToolTip": "ToyShop.DAL\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:47:34.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PTUDDesktop-CTK44\\BaiTapNhom\\Source\\ToyShop\\Program.cs",
+              "RelativeDocumentMoniker": "ToyShop\\Program.cs",
+              "ToolTip": "E:\\PTUDDesktop-CTK44\\BaiTapNhom\\Source\\ToyShop\\Program.cs",
+              "RelativeToolTip": "ToyShop\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCIAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:28:19.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
