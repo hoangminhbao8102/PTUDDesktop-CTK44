@@ -16,4 +16,4 @@ Hoc kì II - Năm 2 (2021 - 2022)<br>
 <strong>Giáo viên hướng dẫn thực hành:</strong> Thầy ThS. Thái Duy Quý<br>
 <br>
 Link Github: <a href="https://github.com/hoangminhbao8102/PTUDDesktop-CTK44">hoangminhbao8102/PTUDDesktop-CTK44</a><br>
-<h1 style="color:red;">SẮP HOÀN THÀNH</h1>
+<h1 style="color:red;">ĐÃ HOÀN THÀNH</h1>
